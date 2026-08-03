@@ -1,2 +1,1 @@
-Hello, git! kittikavin
-hihihihihihihihihihihihi
+# My Amazing Project
